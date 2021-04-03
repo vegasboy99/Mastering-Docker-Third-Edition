@@ -1,5 +1,5 @@
 FROM alpine:latest
-LABEL maintainer="Russ McKendrick <russ@mckendrick.io>"
+LABEL maintainer="Russ TEST <russ@mckendrick.io>"
 LABEL description="An image with the latest version on Consul."
 
 ENV CONSUL_VERSION 1.2.2
